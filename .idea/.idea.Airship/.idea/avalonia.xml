@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="Airship/App.axaml" value="Airship/Airship.csproj" />
+        <entry key="Airship/Components/UserControl1.axaml" value="Airship/Airship.csproj" />
+        <entry key="Airship/Views/MainWindow.axaml" value="Airship/Airship.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
